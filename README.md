@@ -6,7 +6,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=MALVIN%20MD%20V2&description=🪀THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MALVIN%20KING♥️&image=https://files.catbox.moe/gdvaaw.jpg?v=4&backgroundColor=%23ecf0f1&github=kingmalvn&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=MALVIN%20MD%20V2&description=🪀THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MALVIN%20KING♥️&image=https://files.catbox.moe/tmtn0f.jpeg?v=4&backgroundColor=%23ecf0f1&github=kingmalvn&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
