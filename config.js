@@ -16,6 +16,7 @@ AUTO_VOICE: process.env.AUTO_VOICE || "true", //add true or false
 AUTO_STICKER: process.env.AUTO_STICKER || "true", //add true or false
 AUTO_REPLY: process.env.AUTO_REPLY || "true", //add true or false
 ANTI_LINK: process.env.ANTI_LINK || "true", //add true or false
+OWNER_NUMBER: process.env.OWNER_NUMBER || "263716729222", //add your own number
 ANTI_BAD: process.env.ANTI_BAD || "true", //add true or false
 FAKE_RECORDING: process.env.FAKE_RECORDING || "true", //add true or false
 AUTO_REACT: process.env.AUTO_REACT || "true", //add true or false
