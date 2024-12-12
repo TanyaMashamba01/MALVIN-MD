@@ -16,19 +16,19 @@
     "ALIVE_IMG": {
       "description": "ALIVE URL.",
       "required": true,
-      "value": "https://i.imgur.com/vzDwkjg.jpeg"
+      "value": "https://i.top4top.io/p_3236rxa990.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": " alive message ",
       "required": true,
-      "value": "HI"
+      "value": "HI Joshuamambo"
     },
     
     "PREFIX": {
       "description": " prefix.",
       "required": true,
-      "value": "."
+      "value": "~"
     },
     
     "MODE": {
